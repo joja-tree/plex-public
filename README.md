@@ -30,3 +30,13 @@ Users who are already utilizing the service are not under any obligation to make
 While utilizing this service, I will have visibility into the movies and TV shows you've watched. Additionally, I will be able to monitor bandwidth usage. At present, bandwidth consumption is notably low, posing minimal concerns from my perspective.
 
 Although I cannot provide assurances, if the service remains sustainable, there is a possibility that I may offer select users the option to request media to the server.
+
+## Tech Stack 
+- qBittorrent: Open-source BitTorrent client known for its user-friendly interface and extensive features.
+- Plex: Media server software allowing users to organize, stream, and access their media content from various devices.
+- Overseerr: Request management and fulfillment system designed for media server platforms like Plex and Emby, facilitating user-driven content requests.
+- Prowlarr: Unified tool for managing and searching for content across multiple Usenet indexers, aiding in automated downloading and organization.
+- Radarr: Automated movie management tool for media server setups, enabling users to automatically download, organize, and track their movie collections.
+- Sonarr: Similar to Radarr, but specifically tailored for TV show management, allowing users to automate the downloading and organization of television series.
+- Bazarr: Companion tool for Sonarr and Radarr, providing subtitle downloading and management capabilities to enhance the media viewing experience.
+- Tautulli: Monitoring and analytics tool for Plex servers, offering insights into user activity, playback statistics, and server performance.

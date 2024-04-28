@@ -25,7 +25,7 @@ Users who are already utilizing the service are not under any obligation to make
     
   - You can pin other viewing options but viewing results may vary. Do so under your volition.
 
-## Additional Information
+## Extra Information
 
 While utilizing this service, I will have visibility into the movies and TV shows you've watched. Additionally, I will be able to monitor bandwidth usage. At present, bandwidth consumption is notably low, posing minimal concerns from my perspective.
 
